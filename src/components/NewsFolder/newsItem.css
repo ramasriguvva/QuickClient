@@ -1,0 +1,32 @@
+
+.news-img {
+    width: 400px;
+}
+
+.all__news {
+    margin: 50px auto;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 0;
+  }
+
+  .news {
+    max-width: 500px;
+    padding: 28px;
+    border: 1px solid lightgray;
+    border-radius: 5px;
+  }
+  
+  .news__title {
+    padding-bottom: 10px;
+    border-bottom: 1px solid lightgray;
+  }
+
+  
+.news__desc {
+    padding-top: 10px;
+    line-height: 25px;
+    font-size: 20px;
+    padding-bottom: 10px;
+    font-family:  sans-serif;
+  }

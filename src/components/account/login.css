@@ -1,0 +1,16 @@
+.centerContent{
+    margin-left: auto;
+    text-align: center;
+    margin-top: 15px;
+   justify-content: center;
+}
+.StyleComponent{
+    text-align: center;
+    
+}
+img{
+    align-content: center;
+    width : 350px;
+    height : 350px;
+    
+}

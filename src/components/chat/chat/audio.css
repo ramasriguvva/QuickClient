@@ -1,0 +1,24 @@
+.stop{
+     color: red;
+     margin-right: 60%;
+     margin-bottom: 15px;
+     size: 50px;
+     cursor: pointer;
+}
+
+
+.start{
+     color: blue;
+     margin-right: 60%;
+     margin-bottom: 15px;
+     size: 50px;
+     cursor: pointer;
+}
+
+.audio{
+     width: 100%;
+}
+
+.input{
+     width: 60%;
+}
