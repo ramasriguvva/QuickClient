@@ -55,8 +55,8 @@ const AboutDrawer = ({open, setOpen}) =>{
                      <Typography>About QuickChat</Typography>
                 </Header>
                 <Info>
-                <span style={{color: '#4B0082', fontSize: 23}}>QuickALl</span> is developed by <span style={{color: '#DC143C', fontSize: 23}}>Vivek kumar kashyap </span> and  
-                <span style={{color: '#DC143C', fontSize: 23}}> Guvva Ramasri , S. Maanas kumar and A jyothi</span>. For developing this app we have used react js, node js, socket.io,
+                <span style={{color: '#4B0082', fontSize: 23}}>QuickAll</span> is developed by <span style={{color: '#DC143C', fontSize: 23}}>Guvva Ramasri</span> and  
+                <span style={{color: '#DC143C', fontSize: 23}}> Vivek Kumar Kashyap</span>. For developing this app we have used react js, node js, socket.io,
                 socket.io-client, axios, express , mongodb,multer,………etc.
                 We developed this app in one month.
                 If you face any probem while using this app you can contact to us<br/>
@@ -70,9 +70,8 @@ const AboutDrawer = ({open, setOpen}) =>{
                 → you can read daily news <br/>
                 <Contact>
                 <span style={{color: '#033E3E', fontWeight: 500, fontSize: 23}}><u>Our contact details</u></span><br/>
-                vivekkashyap043@gmail.com<br/>
-                vikkyvivek043@gmail.com<br/>
-                guvvaramasri123@gmail.com
+                guvvaramasri12@gmail.com<br/>
+                vivekkashyap043@gmail.com
                 </Contact>
                 </Info>
         </Drawer>
